@@ -1,0 +1,23 @@
+From 39f2e4c76fd0efe17a56915ad7422a7934dc9064 Mon Sep 17 00:00:00 2001
+From: madhav <madhav@gmail.com>
+Date: Thu, 1 Oct 2015 10:20:38 +0530
+Subject: [PATCH 15/15] added files to local repo
+
+---
+ hello.txt | 1 +
+ ps.txt    | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 ps.txt
+
+diff --git a/hello.txt b/hello.txt
+index e69de29..45b983b 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -0,0 +1 @@
++hi
+diff --git a/ps.txt b/ps.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.1
+
